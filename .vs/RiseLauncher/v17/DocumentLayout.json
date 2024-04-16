@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|C:\\Users\\phill\\source\\repos\\RiseLauncher\\riselauncher\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|solutionrelative:riselauncher\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|C:\\Users\\phill\\source\\repos\\RiseLauncher\\riselauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|solutionrelative:riselauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|c:\\users\\phill\\source\\repos\\riselauncher\\riselauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|solutionrelative:riselauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|C:\\Users\\phill\\source\\repos\\RiseLauncher\\riselauncher\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|solutionrelative:riselauncher\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|c:\\users\\phill\\source\\repos\\riselauncher\\riselauncher\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC79AD88-DD7D-465E-9C3A-5F02EC8ABA8C}|RiseLauncher\\RiseLauncher.csproj|solutionrelative:riselauncher\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "RiseLauncher\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form2.Designer.cs",
+              "RelativeToolTip": "RiseLauncher\\Form2.Designer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAqwIsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:01:33.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form2.cs",
+              "RelativeDocumentMoniker": "RiseLauncher\\Form2.cs",
+              "ToolTip": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form2.cs",
+              "RelativeToolTip": "RiseLauncher\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:23:34.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form2.cs",
+              "RelativeDocumentMoniker": "RiseLauncher\\Form2.cs",
+              "ToolTip": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form2.cs [Design]",
+              "RelativeToolTip": "RiseLauncher\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:21:48.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form1.cs",
+              "RelativeDocumentMoniker": "RiseLauncher\\Form1.cs",
+              "ToolTip": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form1.cs",
+              "RelativeToolTip": "RiseLauncher\\Form1.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAkwOEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:01:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form1.cs",
+              "RelativeDocumentMoniker": "RiseLauncher\\Form1.cs",
+              "ToolTip": "C:\\Users\\phill\\source\\repos\\RiseLauncher\\RiseLauncher\\Form1.cs [Design]",
+              "RelativeToolTip": "RiseLauncher\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:56:38.902Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
